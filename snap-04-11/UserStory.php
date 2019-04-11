@@ -15,6 +15,5 @@
 			<li>As a casual user I click the image that I want to work with and press insert
 			which adds my image.</li>
 			<li>As a casual user I finally click save & close which means the image is set.</li>
-			<li></li>
 		</div>
 	</body>
