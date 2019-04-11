@@ -6,15 +6,7 @@
 	<body>
 		<h1><b>User Story:</b></h1>
 		<div>
-			<li>As a casual user I click on the content section of the Campaign Builder.</li>
-			<li>As a casual user the server takes me to the edit design section.</li>
-			<li>As a casual user on the Design section I click the image content block I want
-			to work with.</li>
-			<li>As a casual user I click browse which the server takes me to the Content Manager.</li>
-			<li>As a casual user I click the tab which contains my image.</li>
-			<li>As a casual user I click the image that I want to work with and press insert
-			which adds my image.</li>
-			<li>As a casual user I finally click save & close which means the image is set.</li>
+			<p>As a casual user I want to be able to easily insert an image
+			with ease. With easy instructions on how to complete such task.</p>
 		</div>
-		aw yeah
 	</body>
